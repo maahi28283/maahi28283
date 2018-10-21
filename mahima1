@@ -5,11 +5,11 @@ public class number
        int number=3;
        if(number>0)
        {
-         System.out.println(number +"number is positive");
+         System.out.println(number +"Positive");
        }
        elseif(number<0)
        {
-          System.out.println(number +"number is negative");
+          System.out.println(number +"Negative");
        }
        else
        {
